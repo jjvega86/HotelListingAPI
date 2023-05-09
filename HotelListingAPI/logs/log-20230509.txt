@@ -1,0 +1,16 @@
+2023-05-09 04:01:42.485 -04:00 [INF] Now listening on: https://localhost:7253
+2023-05-09 04:01:42.518 -04:00 [INF] Now listening on: http://localhost:5166
+2023-05-09 04:01:42.546 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 04:01:42.547 -04:00 [INF] Hosting environment: Development
+2023-05-09 04:01:42.548 -04:00 [INF] Content root path: /Users/jjvega/Projects/HotelListingAPI/HotelListingAPI
+2023-05-09 04:03:44.232 -04:00 [INF] Now listening on: https://localhost:7253
+2023-05-09 04:03:44.274 -04:00 [INF] Now listening on: http://localhost:5166
+2023-05-09 04:03:44.275 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 04:03:44.276 -04:00 [INF] Hosting environment: Development
+2023-05-09 04:03:44.276 -04:00 [INF] Content root path: /Users/jjvega/Projects/HotelListingAPI/HotelListingAPI
+2023-05-09 04:05:42.751 -04:00 [INF] Now listening on: https://localhost:7253
+2023-05-09 04:05:42.789 -04:00 [INF] Now listening on: http://localhost:5166
+2023-05-09 04:05:42.791 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-09 04:05:42.792 -04:00 [INF] Hosting environment: Development
+2023-05-09 04:05:42.792 -04:00 [INF] Content root path: /Users/jjvega/Projects/HotelListingAPI/HotelListingAPI
+2023-05-09 04:05:49.599 -04:00 [INF] HTTP GET /WeatherForecast responded 200 in 28.0948 ms
